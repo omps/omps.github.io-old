@@ -1,12 +1,6 @@
-# omps.in
-
-Welcome to omps.in
-
-This is my personal landing page and its been kept minimal.
-
-I am maintaining a blog [[here][http://blog.omps.in]].
-
-I can be reached at omps at omps dot in
-
-on twitter you can connect with @ohgnis
-
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default
+---
