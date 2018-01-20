@@ -4,7 +4,16 @@
     <url>
       <loc>http://localhost:4000/blog/welcome-to-jekyll/</loc>
       
-        <lastmod>2017-04-12T13:46:01+05:30</lastmod>
+        <lastmod>2017-10-12T13:46:01+05:30</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/blog/welcome/</loc>
+      
+        <lastmod>2016-04-04T21:18:01+05:30</lastmod>
       
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
@@ -35,6 +44,34 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
        </url>
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
     
   
     

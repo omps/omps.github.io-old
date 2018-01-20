@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2017-04-12 05:16:01 -0300 
+date:   2017-10-12 05:16:01 -0300 
 categories: blog
 tags: ['example','welcome','jekyll', 'typing', 'responsive', 'simple']
 published: true
-comments: true 
+comments: false
 excerpted: |
     You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site ...
 day_quote:
@@ -19,7 +19,7 @@ script: [post.js]
 ---
 
 * Do not remove this line (it will not be displayed)
-{: toc}
+{: toc} 
 
 Hi! :hand:
 

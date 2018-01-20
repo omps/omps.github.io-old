@@ -19,10 +19,10 @@ url: "http://www.omps.in" # the base hostname & protocol for your site, e.g. htt
 title: Welcome to omps.in
 # Add Avatar in: Sidebar or page Hello, and configure.
 avatar:
-  sidebar: true
+  sidebar: false
   hello: false
   size:
-    enable: true
+    enable: false
     value: 165
   border:
     enable: false
@@ -61,17 +61,17 @@ plugin:
 
 # Plugin music.
 spotify:
-  enable: true
-  open: true
+  enable: false
+  open: false
   theme: "light" # dark | light
   sass:
-    jekyll: true
+    jekyll: false
     dir: "_sass"
   title:
-    enable: true
+    enable: false
     text: "Jekyll Spotify Plugin"
   content:
-    enable: true
+    enable: false
     text: |
       Jekyll plugin to generate html snippets for embedding Spotify Musics.
       To listen to the full song, open your Spotify and start these musics.

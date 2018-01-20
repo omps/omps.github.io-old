@@ -27,11 +27,11 @@ website:
   strings:
     sidebar:
       title: |
-        <br>Hello, World!
+        <br>omps.in!
       links:
         home: Home
     footer:
-      message: A simple theme based on Jekyll.
+      message: theme based on Jekyll.
     comments:
       title: Leave a comment on this post
       disable: The comment for this post is disabled.
