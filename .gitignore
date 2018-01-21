@@ -1,1 +1,5 @@
-^_vendor
+^_vendor/
+Gemfile.lock
+.DS_store
+.sass-cache/
+_vendor/
